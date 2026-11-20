@@ -1,0 +1,15 @@
+{
+  "workItemId": "wi-t1000023",
+  "applicationId": "application",
+  "applicationBaseline": {
+    "revision": 0,
+    "snapshotHash": null
+  },
+  "workItemType": "initial-build",
+  "title": "8.3.2损耗核销后的授信释放联动脚本开发\n\n基于提供的材料，进行Kingscript脚本开发及调用苍穹API创建单据及配置BOTP\n\nOriginal task context (user-provided facts):\n\n{\"issueId\":\"29136650592337920\",\"code\":\"T1000023\",\"title\":\"8.3.2损耗核销后的授信释放联动脚本开发\",\"description\":\"基于提供的材料，进行Kingscript脚本开发及调用苍穹API创建单据及配置BOTP\",\"priority\":\"critical\",\"labels\":[],\"kind\":\"feature\",\"acceptanceCriteria\":[],\"projectName\":\"委外加工-AI贯通-协同开发\"}",
+  "request": "8.3.2损耗核销后的授信释放联动脚本开发\n\n基于提供的材料，进行Kingscript脚本开发及调用苍穹API创建单据及配置BOTP\n\nOriginal task context (user-provided facts):\n\n{\"issueId\":\"29136650592337920\",\"code\":\"T1000023\",\"title\":\"8.3.2损耗核销后的授信释放联动脚本开发\",\"description\":\"基于提供的材料，进行Kingscript脚本开发及调用苍穹API创建单据及配置BOTP\",\"priority\":\"critical\",\"labels\":[],\"kind\":\"feature\",\"acceptanceCriteria\":[],\"projectName\":\"委外加工-AI贯通-协同开发\"}",
+  "status": "active",
+  "specId": "cosmic-development-spec",
+  "revision": 0,
+  "createdAt": "2026-11-20T09:42:49.213Z"
+}

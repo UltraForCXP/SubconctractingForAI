@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "receiptId": "requirements:1",
+  "receiptType": "cosmic-requirements",
+  "specId": "cosmic-development-spec",
+  "graphRevision": 16,
+  "actionId": "requirements",
+  "inputRevision": 0,
+  "stateVersion": 1,
+  "outcome": "passed",
+  "contentHash": "sha256:d73dda9d9c3e19b26acdc05521e64f59b84e0dbf68c8e71e5c198782e0ee1aa6",
+  "createdAt": "2026-11-20T09:50:04.350Z",
+  "timing": {
+    "startedAt": "2026-11-20T09:42:49.726Z",
+    "completedAt": "2026-11-20T09:50:04.350Z",
+    "durationMs": 434624
+  },
+  "artifacts": [
+    {
+      "path": "docs/wi-t1000023/requirements.md",
+      "bytes": 16566,
+      "sha256": "sha256:46fea414db48307cbc5181034b59d306c30aef50c334bebfaffe13041d4ab012",
+      "title": "8.3.2 损耗核销后的授信释放联动脚本开发需求"
+    }
+  ],
+  "verification": [
+    {
+      "checkId": "requirements-source-coverage",
+      "status": "passed"
+    },
+    {
+      "checkId": "requirements-independent-review",
+      "status": "passed"
+    },
+    {
+      "checkId": "implementation-readiness",
+      "status": "blocked"
+    },
+    {
+      "checkId": "runtime-business-acceptance",
+      "status": "not-run"
+    },
+    {
+      "checkId": "requirements:clarification",
+      "status": "passed",
+      "readiness": {
+        "mode": "document",
+        "semanticHash": "sha256:46fea414db48307cbc5181034b59d306c30aef50c334bebfaffe13041d4ab012",
+        "revision": 1
+      }
+    }
+  ]
+}
