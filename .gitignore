@@ -1,0 +1,33 @@
+# 依赖与构建产物
+node_modules/
+target/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.class
+
+# 环境与密钥
+.env
+.env.*
+*.key
+*.pem
+*.p12
+
+# 日志与临时文件
+*.log
+*.tmp
+*.swp
+~$*
+
+# 编辑器
+.idea/
+.vscode/
+*.iml
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
